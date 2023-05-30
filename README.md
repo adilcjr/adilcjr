@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-##Links
-![<linkedin>]([https://img.shields.io/badge/](https://www.linkedin.com/in/adilcalomenojr/)
+## Links
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=radius:2px&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adilcalomenojr/)
 
 <!--
 **adilcjr/adilcjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
