@@ -43,6 +43,9 @@ Here you'll find my personal projects. Some of them were developed for proof of 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+### My Code Statistics
+
+[Code stats](https://codestats.net/users/adilcjr)
 
 <!-- ## GitHub stats
 
