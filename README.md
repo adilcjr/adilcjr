@@ -14,8 +14,6 @@ Here you'll find my personal projects. Some of them were developed for proof of 
 ![Communication](https://img.shields.io/badge/Communication-20B2AA?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile-880044?style=for-the-badge)
 
-<!-- 507045 -->
-
 ## Tech Skills
 
 ### Languages
@@ -26,8 +24,6 @@ Here you'll find my personal projects. Some of them were developed for proof of 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adilcjr&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=AAA)
 
 ### Frameworks
 
@@ -46,21 +42,3 @@ Here you'll find my personal projects. Some of them were developed for proof of 
 ### My Code Statistics
 
 [Code stats](https://codestats.net/users/adilcjr)
-
-<!-- ## GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adilcjr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&include_all_commits=false)
--->
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
