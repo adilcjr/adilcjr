@@ -2,6 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+## About me
+
+I am a seasoned technology professional with over 25 years of experience in the software industry, including more than 5 years in technical leadership roles. My career has evolved from deep hands-on engineering in high-availability systems to leading multidisciplinary teams through complex innovation cycles. I specialize in bridging the gap between strategic business needs and robust architectural solutions.
+
+### Technical Expertise
+* **Backend & Full-stack:** Extensive experience with Python (Django), JavaScript (Node.js), Ruby on Rails, Java, and Elixir.
+* **Frontend & Mobile:** Proficient in building interfaces with React Native, Vue.js, Flutter, and Angular.
+* **Artificial Intelligence:** Implementation of modern AI solutions using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Langflow, and Flowise.
+* **Architecture & Data:** Solid knowledge of microservices architecture, Docker, and various database systems including PostgreSQL, MongoDB, and Oracle.
+* **Agile & Governance:** Certified ScrumMaster (CSM) and ITIL Foundation certified, with a focus on Lean and Kanban methodologies to drive team productivity.
+* **Legacy & Integration:** Deep background in mission-critical systems involving complex integrations, SOA/REST, and high-security standards.
+
 Here you'll find my personal projects. Some of them were developed for proof of concept for a bigger project and others to study languages or technologies.
 
 ## Connect with me
